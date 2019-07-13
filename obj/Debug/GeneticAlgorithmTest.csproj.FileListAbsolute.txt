@@ -1,0 +1,12 @@
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\bin\Debug\GeneticAlgorithmTest.exe.config
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\bin\Debug\GeneticAlgorithmTest.exe
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\bin\Debug\GeneticAlgorithmTest.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\GeneticAlgorithmTest.csprojAssemblyReference.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\GeneticAlgorithmTest.InfiniteMonkeyPage.resources
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\GeneticAlgorithmTest.MainScreen.resources
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\GeneticAlgorithmTest.Properties.Resources.resources
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\GeneticAlgorithmTest.csproj.GenerateResource.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\GeneticAlgorithmTest.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\GeneticAlgorithmTest.exe
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\GeneticAlgorithmTest.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\GeneticAlgorithmTest.MainPage.resources
